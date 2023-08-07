@@ -8,5 +8,9 @@
 
 2. 然后就是学习使用[markdown](https://www.markdownguide.org/cheat-sheet/) 的编写格式
 
-3. 欣赏一张美丽的夜景，![广州塔夜景](https://github.com/SanTianIsLight/work-sta/blob/main/docs/%E5%B9%BF%E5%B7%9E%E5%A1%94%E5%A4%9C%E6%99%AF.jpg) 
+3. 欣赏一张美丽的夜景，![广州塔夜景](https://github.com/SanTianIsLight/work-sta/tree/main/docs/广州塔夜景.jpg) 
+
+## 遇到一个问题了，怎么推不上去了
+
+1. 这是什么原因呢，需要多试一下；
 
