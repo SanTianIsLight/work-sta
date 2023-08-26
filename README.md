@@ -8,7 +8,7 @@
 
 2. 然后就是学习使用[markdown](https://www.markdownguide.org/cheat-sheet/) 的编写格式
 
-3. 欣赏一张美丽的夜景，![广州塔夜景](https://github.com/SanTianIsLight/work-sta/tree/main/docs/广州塔夜景.jpg) 
+3. 欣赏一张美丽的夜景，![广州塔夜景](docs/广州塔夜景.jpg) 
 
 ## 遇到一个问题了，怎么推不上去了
 
