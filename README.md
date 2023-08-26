@@ -102,7 +102,7 @@
 
 ## 20230826 记录
 
-> [项目跳转](work-sta/project_1/README.md)
+> [项目跳转](project_1/README.md)
 
 
 
